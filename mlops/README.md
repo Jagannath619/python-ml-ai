@@ -27,3 +27,18 @@ Install MLflow in your conda environment:
 ```bash
 conda activate <your-env>
 pip install mlflow
+
+# 🧪 MLflow UI: Visualizing and Comparing Experiments
+
+Welcome! This guide provides a quick overview of how to use the **MLflow UI** to visualize and compare your machine learning experiments in an interactive, web-based interface.
+
+---
+
+## 🚀 Getting Started
+
+To launch the MLflow UI:
+
+1. **Activate your Conda environment** (if not already):
+
+   ```bash
+   conda activate <your-env-name>
